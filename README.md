@@ -1,4 +1,4 @@
-bash
-====
+Bash aliases
+============
 
-useful bash aliases
+useful Bash aliases, just rename to ~/.bash_aliases
