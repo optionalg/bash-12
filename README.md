@@ -1,4 +1,4 @@
-Bash aliases
-============
+My BASH settings
+================
 
-useful Bash aliases, just rename to ~/.bash_aliases
+I use it as it is :D

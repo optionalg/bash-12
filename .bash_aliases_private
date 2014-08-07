@@ -1,0 +1,7 @@
+alias turris='ssh root@192.168.1.1 -C -p 22'
+alias wol='/usr/bin/wakeonlan'
+
+PATH=$PATH:$HOME/.rvm/bin
+
+source ~/.rvm/scripts/rvm
+source ~/git-completion.bash
