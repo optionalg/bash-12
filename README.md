@@ -1,8 +1,5 @@
-My BASH settings
-================
-
-
-* 2014-08-07 clean-up
+My BASH
+=======
 
 
 Author: Fred Brooker <original@fredbrooker.cz> http://fredbrooker.cz/

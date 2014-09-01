@@ -42,7 +42,6 @@ alias fixlocales='sudo apt-get install language-pack-en-base language-pack-en la
 alias vdiuuid='VBoxManage internalcommands sethduuid'
 alias refreshfonts='sudo fc-cache -f -v'
 alias myhistory='history |tr "\011" " " |tr -s " "| cut -d" " -f3 |sort |uniq -c |sort -nbr |head -n10'
-alias su='sudo -i'
 alias mem='free -mlt'
 alias mymemory='ps auxf | sort -nr -k 4 | head -10'
 
